@@ -1,11 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY2MTMzYzBmNzg5NzYyMjdlNjdmNTU1Y2Y5NTFhYWZlM2YxMTZkZiZjdD1z/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
-</div>
-
-<h1>
+  <h1>
   Hi..
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="30px"/>
 </h1>
+</div>
+
+
 ============================================================================================================================
 
 Software Test Engineer
