@@ -4,6 +4,7 @@
   Hi..
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="30px"/>
 </h1>
+  <img src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="100"/>
 </div>
 
 
@@ -11,6 +12,12 @@
 
 Software Test Engineer
 ----------------------
+
+👩‍💻  About Me :
+I am a Full Stack Developer.
+
+🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+🌱 Exploring Technical Content Writing.
 
 *   🌍  I'm based in Pattaya, Thailand
 *   🖥️  See my portfolio at [VNez](https://github.com/VNezMc)
