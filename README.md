@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY2MTMzYzBmNzg5NzYyMjdlNjdmNTU1Y2Y5NTFhYWZlM2YxMTZkZiZjdD1z/SUcApSWjPwQMARvcM8/giphy.gif" width="300"/>
-<h1>
   <img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="300px"/>
-</h1>
- <img src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="300"/>
 </div>
 
 <div id="header" align="center">
