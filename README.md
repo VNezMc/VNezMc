@@ -4,7 +4,9 @@
   Hi..All
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="30px"/>
 </h1>
+<h1>
   <img src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="100"/>
+</h1>
 🧡Software Test Engineer🧡
 </div>
 
