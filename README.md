@@ -11,18 +11,11 @@
  🧡Software Test Engineer🧡
 </div>
 
-
-
-
-
-----------------------
-
 👩‍💻  About Me :
 I am a Full Stack Developer.
 
-🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-🌱 Exploring Technical Content Writing.
-
+*   🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+*   🌱 Exploring Technical Content Writing.
 *   🌍  I'm based in Pattaya, Thailand
 *   🖥️  See my portfolio at [VNez](https://github.com/VNezMc)
 <p align="left">
