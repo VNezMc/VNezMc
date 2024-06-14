@@ -16,7 +16,7 @@ I am a Full Stack Developer.
 
 *   💻 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 *   🌱 Exploring Technical Content Writing.
-*   🌍  I'm based in Pattaya, Thailand
+*   🌍  I'm based in San Francisco, U.S.A.
 *   🖥️  See my portfolio at [VNez](https://github.com/VNezMc)
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
