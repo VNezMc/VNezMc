@@ -58,4 +58,4 @@ I am a Full Stack Developer.
 <div align="center">
 <img src="/metrics.svg" width="50%"/>
 </div>
-<img src="/Dark.svg" width="47%"/>
+
