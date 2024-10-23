@@ -54,7 +54,43 @@ I am a Full Stack Developer.
 <h3 align="center">🧡Support🧡</h3>
 
 <p align="center"><a href="https://www.buymeacoffee.com/VaNez"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="VaNez" /></a><a href="https://ko-fi.com/VaNez"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="VaNez" /></a></p><br><br>
-
+<img src="/metrics.svg" width="50%"/><img src="/other.svg" width="50%"/>
+<div align="center">
+  <img src="/snake.svg" width="80%">
+  </br>
+  <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/60dca4b761051e35eff034a0&color=FF34A7"/>
+  <img src="https://komarev.com/ghpvc/?username=tetra-fox&label=profile+views&color=FF34A7"/>
+  </br>
+  <details open>
+    <summary><b>🛠️ Development Stack</b></summary>
+    <table>
+      <tr>
+        <th align="right">Category</th>
+        <th align="left">Technologies</th>
+      </tr>
+      <tr>
+        <td align="right">Core</td>
+        <td><img src="https://skillicons.dev/icons?i=ts,js,cs,py,cpp,go,rust,nodejs,deno,dotnet,redis" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Frontend</td>
+        <td><img src="https://skillicons.dev/icons?i=svelte,html,css,sass,webpack,jquery" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Server</td>
+        <td><img src="https://skillicons.dev/icons?i=docker,heroku,gcp,grafana,prometheus" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Miscellaneous</td>
+        <td><img src="https://skillicons.dev/icons?i=linux,bash,markdown,latex,regex,git,github,powershell,raspberrypi,vscode,visualstudio" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Creative</td>
+        <td><img src="https://skillicons.dev/icons?i=blender,unity,ableton,ae,au,ps,pr,ai" height="35px"/></td>
+      </tr>
+    </table>
+  </details>
+</div>
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="627" class="">
     <defs>
         <style/>
