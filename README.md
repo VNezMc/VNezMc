@@ -19,6 +19,13 @@ I am a Full Stack Developer 👩‍💻
 *   🌱 Exploring Technical Content Writing.
 *   🌍  I'm based in San Francisco, U.S.A.
 *   🖥️  See my portfolio at [VNez](https://github.com/VNezMc)
+*   
+## 🎧 Spotify Playing
+
+[![Christian Pop Music](https://img.shields.io/badge/Christian%20Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ygzvslicc4titzhnryyqlsxucu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4f3aee&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
