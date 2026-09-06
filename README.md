@@ -80,7 +80,6 @@ I am a Full Stack Developer  & Designer 👩‍💻
 
 
 *   💻  I'm working as a Software Engineer, handling frontend, backend, and web testing.
-*   🌱  Exploring Technical Content Writing.
 *   🎨  Also passionate about Graphic Design & UI/UX.
 *   🏆  Exploring Technical Content Writing.
 *   🌍  I'm based in San Francisco, U.S.A.
