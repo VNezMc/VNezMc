@@ -12,11 +12,13 @@
 </div>
 <div id="header" align="center">
 👩‍💻  About Me :
-I am a Full Stack Developer 👩‍💻
+I am a Full Stack Developer  & Designer 👩‍💻
 </div>
 
-*   💻 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-*   🌱 Exploring Technical Content Writing.
+*   💻  I'm working as a Software Engineer, handling frontend, backend, and web testing.
+*   🌱  Exploring Technical Content Writing.
+*   🎨  Also passionate about Graphic Design & UI/UX.
+*   🏆  Exploring Technical Content Writing.
 *   🌍  I'm based in San Francisco, U.S.A.
 *   🖥️  See my portfolio at [VNez](https://github.com/VNezMc)
 
@@ -25,6 +27,65 @@ I am a Full Stack Developer 👩‍💻
 [![Christian Pop Music](https://img.shields.io/badge/Christian%20Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ir4pjryk2s4iuyneqd7en5lj4u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9732cd&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ir4pjryk2s4iuyneqd7en5lj4u&redirect=true)
+
+```mermaid
+classDiagram
+    direction LR
+    class VNez {
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⡴⣆⠀⠀⠀⠀⠀⣠⡀⠀⠀⠀⠀⠀⠀⣼⣿⡗⠀⠀⠀⠀
+⠀⠀⠀⣠⠟⠀⠘⠷⠶⠶⠶⠾⠉⢳⡄⠀⠀⠀⠀⠀⣧⣿⠀⠀⠀⠀⠀
+⠀⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣤⣤⣤⣤⣤⣿⢿⣄⠀⠀⠀⠀
+⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠙⣷⡴⠶⣦
+⠀⠀⢱⡀⠀⠉⠉⠀⠀⠀⠀⠛⠃⠀⢠⡟⠀⠀⠀⢀⣀⣠⣤⠿⠞⠛⠋
+⣠⠾⠋⠙⣶⣤⣤⣤⣤⣤⣀⣠⣤⣾⣿⠴⠶⠚⠋⠉⠁⠀⠀⠀⠀⠀⠀
+⠛⠒⠛⠉⠉⠀⠀⠀⣴⠟⢃⡴⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+        me@VNez: echo "I'm 20+ y" 
+    }
+    class Projects {
+        Digipaws
+        Bryte
+        Trease
+        Questphone
+        ... and more
+    }  
+    class Hobbies {
+        +Codes
+        +Makes Music
+        +Read Books
+        +Apricate
+        +Learning about art, history, philosophy and idk anything
+    }
+class Music["▶︎ •၊၊||၊|။||||| 0:11"] {
+        +Guitar
+        +...
+    }
+    class TechStack {
+        +WebDevelopment/ WebTesting
+        +HTML/ CSS/ JS/ React
+        +Node.js/ Python
+    }
+    class TestingTools {
+        +Selenium/ Postman/ Jest
+        +Cypress/ Playwright
+        +Manual & Automation Testing
+    }
+    class DesignTools {
+        +Figma/ Photoshop/ Illustrator
+        +UI/UX Design
+        +idk literally anything creative tbh
+    }
+    VNez --|> Projects : Codes & Designs
+    VNez --|> Hobbies : When feels unemployed
+    Projects ..|> TechStack : Codes it in
+    Projects ..|> TestingTools : Breaks it in (jk, tests it)
+    Projects ..|> DesignTools : Makes it pretty in
+    Hobbies ..|> Projects : designing, coding & testing since 8 btw
+    Hobbies ..|> Music : plays
+    Hobbies ..|> LastRead
+```
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
